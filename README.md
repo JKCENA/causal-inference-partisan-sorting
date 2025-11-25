@@ -48,8 +48,7 @@ All scripts assume the original ANES variable names and structure.
 Some preprocessing and modeling were generated with assistance from  
 **AI-based code generation tools **.  
 AI assistance was used **only for coding support**, not for producing or altering the underlying dataset.
-All methodological decisions, TTE design choices, modeling assumptions, and interpretations  
-are entirely my own.
+All methodological decisions, TTE design choices, modeling assumptions, and interpretations are entirely my own.
 
 ---
 
