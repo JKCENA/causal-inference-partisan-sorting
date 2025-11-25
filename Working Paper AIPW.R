@@ -761,5 +761,4 @@ p_forest <- ggplot(sum_tbl, aes(y = param, x = mean)) +
 
 print(p_forest)
 
-# (옵션) 파일 저장
-# ggsave("forest_bootstrap_short_total.png", p_forest, width = 7.2, height = 3.2, dpi = 300)
+
