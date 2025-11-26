@@ -43,16 +43,7 @@ All scripts assume the original ANES variable names and structure.
 
 ---
 
-## 🔹 2. AI Assistance Disclosure  
-
-Some preprocessing and modeling were generated with assistance from  
-**AI-based code generation tools **.  
-AI assistance was used **only for coding support**, not for producing or altering the underlying dataset.
-All methodological decisions, TTE design choices, modeling assumptions, and interpretations are entirely my own.
-
----
-
-## 🔹 3. ⚠️ Critical Methodological Warning (IPSA Version)
+## 🔹 2. ⚠️ Critical Methodological Warning (IPSA Version)
 
 The **IPSA Conference** code and paper include a **serious causal identification error**:
 
@@ -75,7 +66,7 @@ It should **NOT** be treated as a valid causal estimate.
 
 ---
 
-## 🔹 4. About the Working Paper Version  
+## 🔹 3. About the Working Paper Version  
 
 The Working Paper builds on the IPSA project but corrects all major issues:
 
@@ -91,7 +82,7 @@ The PDF is intentionally not public.
 
 ---
 
-## 🔹 5. Requesting the Full Working Paper  
+## 🔹 4. Requesting the Full Working Paper  
 
 If you wish to read the updated paper:
 
@@ -103,7 +94,7 @@ please contact:
 
 ---
 
-## 🔹 6. Repository Structure  
+## 🔹 5. Repository Structure  
 
 ```
 
@@ -120,7 +111,7 @@ please contact:
 
 ---
 
-## 🔹 7. Citation  
+## 🔹 6. Citation  
 
 If you reference this repository, please cite:
 
@@ -129,7 +120,7 @@ Presented at the 2024 International Political Science Association World Congress
 
 ---
 
-## 🔹 8. Contact  
+## 🔹 7. Contact  
 
 For questions or working paper access:  
 📧 **jihun9965@gmail.com**
